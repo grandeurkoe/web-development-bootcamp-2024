@@ -6,8 +6,7 @@ Build real-world websites and web apps.
 
 Learned in correspondence with "[The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)" course. This course was taught by London's App Brewery top instructor Angela Yang.<br/>
 
-## What You'll Achieve
-
+**What You'll Achieve**
 - **Build 16 Web Development Projects:** Create a diverse portfolio of projects to showcase your skills and be ready to apply for junior developer positions.
 - **Learn the Latest Technologies:** Gain expertise in JavaScript, React, Node.js, and Web3 development.
 - **Build Any Website:** Develop the skills to create any website or web application you envision.
@@ -17,8 +16,7 @@ Learned in correspondence with "[The Complete 2024 Web Development Bootcamp](htt
 - **Master Back-End Development:** Gain deep knowledge in backend development with Node.js.
 - **Learn Professional Best Practices:** Understand and apply professional developer best practices.
 
-## Front-End Web Development
-
+**Front-End Web Development**
 - **HTML 5**
 - **CSS 3**
 - **Flexbox**
@@ -30,8 +28,7 @@ Learned in correspondence with "[The Complete 2024 Web Development Bootcamp](htt
 - **Bash Command Line**
 - **Git, GitHub, and Version Control**
 
-## Back-End Web Development
-
+**Back-End Web Development**
 - **Node.js**
 - **NPM**
 - **Express.js**
@@ -42,17 +39,14 @@ Learned in correspondence with "[The Complete 2024 Web Development Bootcamp](htt
   - **PostgreSQL**
 - **Authentication**
 
-## Modern Front-End Technologies
-
+**Modern Front-End Technologies**
 - **React.js**
 - **React Hooks**
 
-## Web Design
-
+**Web Design**
 - **Deployment with GitHub Pages**
 
-## Web3 Development
-
+**Web3 Development**
 - **Web3 Development on the Internet Computer**
 - **Blockchain Technology**
 - **Token Contract Development**
@@ -68,7 +62,6 @@ Learned in correspondence with "[The Complete 2024 Web Development Bootcamp](htt
   <img alt="git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-14232c?style=flat-square&logo=github&logoColor=white" />
 </p>
-
 
 ## Authors
 
