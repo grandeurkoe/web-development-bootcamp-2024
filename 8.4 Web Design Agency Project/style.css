@@ -49,9 +49,19 @@ span {
     text-align: center;
   }
 
+  .tile-image {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .card-title, .card-text {
+    clear: both;
+  }
+
   .left {
     width: 100%;
   }
+
   .right {
     width: 100%;
   }
