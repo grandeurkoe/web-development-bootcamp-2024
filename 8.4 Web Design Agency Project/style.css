@@ -38,3 +38,21 @@ span {
   width: 45%;
   float: right;
 }
+
+@media (max-width: 680px) {
+  .logo {
+    width: 100px;
+  }
+
+  h1 {
+    font-size: 42px;
+    text-align: center;
+  }
+
+  .left {
+    width: 100%;
+  }
+  .right {
+    width: 100%;
+  }
+}
